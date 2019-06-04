@@ -1,0 +1,26 @@
+{
+  "name": "ipfs_image",
+  "version": "1.0.0",
+  "description": "ipfs",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ipfs-api": "^26.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-fool/ipfs_image.git"
+  },
+  "author": "mr-fool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-fool/ipfs_image/issues"
+  },
+  "homepage": "https://github.com/mr-fool/ipfs_image#readme"
+}
